@@ -1,2 +1,8 @@
-# gapminder
-This repository is a showcase of how data tells a story
+# Gapminder
+
+# Goal
+This project goal is to visualize how fertility rate decreased over the year with respect to population.
+
+# Data Source
+
+
