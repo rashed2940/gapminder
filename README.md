@@ -1,7 +1,7 @@
 # Gapminder
 
 ## Goal
-This project goal is to visualize how fertility rate decreased over the year with respect to population.
+This project goal is to visualize how fertility rate decreased over the year with respect to life Expectency.
 
 ## [Dataset description](https://github.com/rashed2940/gapminder/tree/main/data):
 From the given dataset, we have multiple csv files those contains countrywise population, life-expectency, fertility and their continent details for each year. 
@@ -23,8 +23,3 @@ Below simulation, each country are presented with its own continents unique colo
 <p align="center">
   <img src="data/test1.gif"   title = "Output Details">
 </p>
-
-
-
-
-
