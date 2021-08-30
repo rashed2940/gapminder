@@ -11,15 +11,16 @@ From the given dataset, we have multiple csv files those contains countrywise po
 </p>
 
 ## Simulation:
-In this simulation we visualized how multiple labels make sense and able to tell a story.
-Below simulation, each country are independently presented with its unique color.
+In this simulation, we visualized how an interactive chart is able to tell a story.
+Below simulation, each country is independently represented by its unique color.
 
 <p align="center">
   <img src="data/output.gif"   title = "Output Details">
 </p>
 
-Below simulation, each country are presented with its own continents unique colors.
+In this simulation, each country are represented with its continent defined unique colors.
 
 <p align="center">
   <img src="data/test1.gif"   title = "Output Details">
 </p>
+
