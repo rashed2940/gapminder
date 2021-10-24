@@ -1,6 +1,6 @@
 # Gapminder
 
-## Goal
+## Goal:
 This project goal is to visualize how fertility rate decreased over the year with respect to life Expectency.
 
 ## [Dataset description](https://github.com/rashed2940/gapminder/tree/main/data):
